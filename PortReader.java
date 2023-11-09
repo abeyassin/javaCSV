@@ -15,7 +15,7 @@ public class PortReader {
 
                 // Print the content on the console
                 //for (String column : columns) {
-                    System.out.print(columns [10]+ " " + columns[4]);
+                    System.out.print(columns [4]+ " " + columns[10]);
                 //}
                 System.out.println();
             }
